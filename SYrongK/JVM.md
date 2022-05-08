@@ -248,10 +248,10 @@ Java 프로그래밍을 하지 않더라도 JDK를 설치해야 하는 경우도
 JSP를 사용한다면 WAS가 JSP를 자바 서블릿으로 변환하고 JDK를 사용하여 서블릿을 컴파일 해야 하기 때문이다.
 
 > 출처
-[1] [https://beststar-1.tistory.com/3](https://beststar-1.tistory.com/3)
-[2] [https://coding-nyan.tistory.com/85](https://coding-nyan.tistory.com/85)
-[3] [https://velog.io/@woo00oo/자바-컴파일-과정](https://velog.io/@woo00oo/%EC%9E%90%EB%B0%94-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95)
-[4] [https://velog.io/@litien/JVM-구조](https://velog.io/@litien/JVM-%EA%B5%AC%EC%A1%B0)
-[5] [http://www.tcpschool.com/java/java_intro_programming](http://www.tcpschool.com/java/java_intro_programming)
-[6] [https://developerntraveler.tistory.com/49](https://developerntraveler.tistory.com/49)
+[1] [https://beststar-1.tistory.com/3](https://beststar-1.tistory.com/3)  
+[2] [https://coding-nyan.tistory.com/85](https://coding-nyan.tistory.com/85)  
+[3] [https://velog.io/@woo00oo/자바-컴파일-과정](https://velog.io/@woo00oo/%EC%9E%90%EB%B0%94-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95)  
+[4] [https://velog.io/@litien/JVM-구조](https://velog.io/@litien/JVM-%EA%B5%AC%EC%A1%B0)  
+[5] [http://www.tcpschool.com/java/java_intro_programming](http://www.tcpschool.com/java/java_intro_programming)  
+[6] [https://developerntraveler.tistory.com/49](https://developerntraveler.tistory.com/49)  
 >
