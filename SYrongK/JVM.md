@@ -63,7 +63,7 @@ Java의 컴파일 및 실행 과정은 크게 4단계로 나누어 볼 수 있�
 
 ### 클래스 로더의 동적 로딩
 
-![Runtime Data Area.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d001ec6-42f5-435f-adc1-b61773915071/Runtime_Data_Area.png)
+![Runtime Data Area](https://user-images.githubusercontent.com/47437757/167302307-3b1fda80-dca9-4b8f-8782-ee01a7ce53c6.png)
 
 런타임 중 어떤 메소드를 호출하는 문장을 만났는데, 
 
@@ -154,7 +154,7 @@ JVM은 크게 `Class Loader`, `GC`, `Runtime Data Area`, `Execution Engine` 네 
 
 ![JVM](https://user-images.githubusercontent.com/47437757/167302132-bf997057-8190-4c33-8b64-a636fb2340a9.png)
 
-![JVM상세구조.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d97a46f-d428-4b80-9596-7dafd4dd4a37/JVM상세구조.png)
+![JVM상세구조](https://user-images.githubusercontent.com/47437757/167302304-4cdb2932-69ae-4d5e-bfda-7101bcf8ad37.png)
 
 ## Garbage Colletor
 
@@ -246,3 +246,12 @@ Java 프로그래밍을 하는데에 초점을 맞춘다면 JDK를 설치해야 
 Java 프로그래밍을 하지 않더라도 JDK를 설치해야 하는 경우도 있다.
 
 JSP를 사용한다면 WAS가 JSP를 자바 서블릿으로 변환하고 JDK를 사용하여 서블릿을 컴파일 해야 하기 때문이다.
+
+> 출처
+[1] [https://beststar-1.tistory.com/3](https://beststar-1.tistory.com/3)
+[2] [https://coding-nyan.tistory.com/85](https://coding-nyan.tistory.com/85)
+[3] [https://velog.io/@woo00oo/자바-컴파일-과정](https://velog.io/@woo00oo/%EC%9E%90%EB%B0%94-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95)
+[4] [https://velog.io/@litien/JVM-구조](https://velog.io/@litien/JVM-%EA%B5%AC%EC%A1%B0)
+[5] [http://www.tcpschool.com/java/java_intro_programming](http://www.tcpschool.com/java/java_intro_programming)
+[6] [https://developerntraveler.tistory.com/49](https://developerntraveler.tistory.com/49)
+>
