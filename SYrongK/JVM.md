@@ -28,13 +28,13 @@
 
 자바 바이트 코드를 해당 운영체제에 맞는 기계어로 재번역한 후 실행함으로써 운영체제와 자바 프로그램을 연결시켜주는 역할을 한다.
 
-![JAVA와 JVM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fe21f04-50e2-451d-acac-562e1f6389f3/JAVA와_JVM.png)
+<img width="711" alt="JAVA와 JVM" src="https://user-images.githubusercontent.com/47437757/167302129-9333cc03-18bd-4e91-8219-7e06027c18d7.png">
 
 # Java의 컴파일 및 실행 과정
 
 Java의 컴파일 및 실행 과정은 크게 4단계로 나누어 볼 수 있다.
 
-![Java_code_컴파일실행과정.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/537de542-8567-465a-b521-0c60985e2ddc/Java_code_컴파일실행과정.png)
+<img width="831" alt="Java_code_컴파일실행과정" src="https://user-images.githubusercontent.com/47437757/167302120-a8f2d3b4-5370-4082-aac2-3c022a06def6.png">
 
 1. Java 언어로 작성된 소스 코드를 JVM이 이해할 수 있는 자바 바이트 코드 파일로 컴파일 한다.
 2. 컴파일된 코드를 자바의 Class Loader에게 전달한다.
@@ -108,7 +108,7 @@ Java의 컴파일 및 실행 과정은 크게 4단계로 나누어 볼 수 있�
 
 ### 자바와 순수 컴파일러와의 차이
 
-![JIT컴파일러.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dead0fca-1883-42b0-b0be-a789c1a2ac1a/JIT컴파일러.png)
+![JIT컴파일러](https://user-images.githubusercontent.com/47437757/167302131-d378ef0c-300e-4ee3-b3f5-ad12cbe0cf8a.png)
 
 자바는 소스 코드 변환에 있어서 
 
@@ -152,7 +152,7 @@ JVM은 호출되는 메서드 각각마다 호출 횟수를 누적하고 그 횟
 
 JVM은 크게 `Class Loader`, `GC`, `Runtime Data Area`, `Execution Engine` 네 가지로 나뉜다.
 
-![JVM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9fe50b8e-781d-4778-b30b-4f342c3e1c76/JVM.png)
+![JVM](https://user-images.githubusercontent.com/47437757/167302132-bf997057-8190-4c33-8b64-a636fb2340a9.png)
 
 ![JVM상세구조.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d97a46f-d428-4b80-9596-7dafd4dd4a37/JVM상세구조.png)
 
@@ -235,7 +235,7 @@ JRE에 있는 모든 것 뿐만 아니라 컴파일러(javac)와 jdb, javadoc과
 
 이를 통해 JDK는 프로그램을 생성하고 컴파일할 수 있다.
 
-[JVM과 JRE.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/105a69ab-d112-493f-843d-6992e50c6577/JVM과_JRE.webp)
+![JVM과 JRE](https://user-images.githubusercontent.com/47437757/167302164-c3bd8b3f-1ea2-4dc4-96e4-d4ea534ecc80.png)
 
 JDK는 JRE를 포함하고 있다.
 
